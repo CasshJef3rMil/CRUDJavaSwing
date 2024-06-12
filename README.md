@@ -15,3 +15,11 @@ carpeta en su proyecto que se llame AvancesUI
 📤 Formato de Entrega
 ✔ Video en mp4 
 ✔ Portada oficial con el anexo al proyecto en github
+
+
+
+
+
+
+
+No tengo instalado el JDK ni siquiera el ID de programacion
